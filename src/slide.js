@@ -110,3 +110,4 @@ function touchSlideMove(e){
     }    
   }
 }
+
